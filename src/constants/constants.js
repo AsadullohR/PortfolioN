@@ -42,6 +42,16 @@ export const projects = [
     visit: "https://mini-o-games.netlify.app",
     id: 3,
   },
+  {
+    title: "V-Quiz",
+    description:
+      "V-Quiz is a straightforward quiz application built with Vue.js, aimed at providing an engaging and enjoyable quiz experience. The goal behind this project was to create a user-friendly platform that makes learning and self-assessment fun and accessible. V-Quiz serves as a valuable tool for individuals seeking to test their knowledge, enhance their learning, and challenge themselves in an interactive way. Its intuitive design and Vue.js technology ensure a seamless user experience, contributing to more effective and enjoyable learning opportunities for users.",
+    image: "/images/V-QuizPortfolio.png",
+    tags: ["Vite", "Vue"],
+    source: "https://github.com/AsadullohR/V-quiz",
+    visit: "https://quiz-v.netlify.app/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
