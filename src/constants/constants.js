@@ -6,7 +6,7 @@ export const projects = [
     title: "Nitrostore",
     description:
       "Developed a dynamic portfolio website using Angular for the frontend, Node.js for the backend, and Stripe for secure payment processing. This project not only showcases my technical proficiency but also reflects my passion for creating seamless and secure online experiences, which aligns with the modern web development landscape's demand for both functionality and security.",
-    image: "/public/images/nitrostorePortfolio.png",
+    image: "/images/nitrostorePortfolio.png",
     tags: ["Angular", "Nodejs", "Stripe"],
     source: "https://github.com/AsadullohR/Nitrostore",
     visit:
