@@ -3,6 +3,17 @@
 
 export const projects = [
   {
+    title: "Nitrostore",
+    description:
+      "Developed a dynamic portfolio website using Angular for the frontend, Node.js for the backend, and Stripe for secure payment processing. This project not only showcases my technical proficiency but also reflects my passion for creating seamless and secure online experiences, which aligns with the modern web development landscape's demand for both functionality and security.",
+    image: "/images/nitrosoftPortfolio.png",
+    tags: ["Angular", "Nodejs", "Stripe"],
+    source: "https://github.com/AsadullohR/Nitrostore",
+    visit:
+      "https://www.loom.com/share/e811d39935fa46769d8c1ef412483e25?sid=ec0beea9-8633-4732-be24-ca6cafa976e8",
+    id: 0,
+  },
+  {
     title: "Disaster Tracker",
     description:
       "I developed this project to merge my passion for environmental data with the demand for real-time access to information on natural phenomena and disasters. It serves as a platform to raise awareness and promote disaster preparedness. Utilizing HTML/CSS for the interface, React for dynamic content, and Google Maps for geospatial data, I integrated real-time data from NASA's APIs. The user experience was a primary focus, featuring an intuitive interface with overlays, filters, and markers. The app provides real-time updates on global events, enhancing users' understanding of our dynamic planet.",
@@ -10,7 +21,7 @@ export const projects = [
     tags: ["HTML/CSS", "React", "ES6", "Google Maps", "NASA"],
     source: "https://github.com/AsadullohR/Disaster-Tracker/tree/main",
     visit: "https://disastertrak.netlify.app/",
-    id: 0,
+    id: 1,
   },
   {
     title: "Devfinder",
@@ -20,7 +31,7 @@ export const projects = [
     tags: ["React", "HTML/ES6", "Styled Components", "GitHub API"],
     source: "https://github.com/AsadullohR/github-user-search",
     visit: "https://ghubusersearch.netlify.app/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Bookrew",
@@ -30,7 +41,7 @@ export const projects = [
     tags: ["React", "Docker", "Node.js", "Express.js", "MySql", "Nginx"],
     source: "https://github.com/AsadullohR/BookRew-0.2",
     visit: "https://github.com/AsadullohR/BookRew-0.2",
-    id: 2,
+    id: 3,
   },
   {
     title: "Mini Games",
@@ -40,7 +51,7 @@ export const projects = [
     tags: ["HTML5", "CSS3", "Vanilla Js", "Bootstrap"],
     source: "https://github.com/AsadullohR/Mini-Games",
     visit: "https://mini-o-games.netlify.app",
-    id: 3,
+    id: 4,
   },
   {
     title: "V-Quiz",
@@ -50,7 +61,7 @@ export const projects = [
     tags: ["Vite", "Vue"],
     source: "https://github.com/AsadullohR/V-quiz",
     visit: "https://quiz-v.netlify.app/",
-    id: 4,
+    id: 5,
   },
 ];
 
