@@ -5,9 +5,9 @@ export const projects = [
   {
     title: "Nitrostore",
     description:
-      "Developed a dynamic portfolio website using Angular for the frontend, Node.js for the backend, and Stripe for secure payment processing. This project not only showcases my technical proficiency but also reflects my passion for creating seamless and secure online experiences, which aligns with the modern web development landscape's demand for both functionality and security.",
+      "Crafted a dynamic portfolio website with Angular for the frontend, Node.js for the backend, and Stripe for secure payments. Leveraging the Ng Material Library and Tailwind, I ensured an appealing and responsive design. This project not only highlights my technical proficiency but also mirrors my commitment to delivering seamless, secure, and visually compelling online experiences, addressing the evolving demands of modern web development.",
     image: "/images/nitrostorePortfolio.png",
-    tags: ["Angular", "Nodejs", "Stripe"],
+    tags: ["Angular", "Nodejs", "Stripe", "Tailwind"],
     source: "https://github.com/AsadullohR/Nitrostore",
     visit:
       "https://www.loom.com/share/e811d39935fa46769d8c1ef412483e25?sid=ec0beea9-8633-4732-be24-ca6cafa976e8",
